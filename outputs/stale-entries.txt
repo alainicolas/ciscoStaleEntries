@@ -1,0 +1,10 @@
+device-1
+Entry 0x11 exists in SDK but not in SUP.
+
+device-2
+Peer 10.10.10.10 is in SUP but not in SDK at entry 0x07
+
+
+device-3
+All entries are clean.
+
